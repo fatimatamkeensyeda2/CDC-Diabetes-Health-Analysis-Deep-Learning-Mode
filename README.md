@@ -28,6 +28,3 @@ The model achieved 85.36% test accuracy and an AUC of 0.8184. However, its recal
 Conclusion
 This project demonstrates an end-to-end deep-learning workflow for diabetes-status classification using TensorFlow. It includes data preprocessing, neural network development, model training, and evaluation. Although the model achieved 85.36% test accuracy and an AUC of 0.8184, its low diabetes-class recall indicates that further improvement is needed before it could be considered for any screening application.
 
-Dense hidden layer with 16 neurons and ReLU activation
-
-Output layer with one neuron and sigmoid activation
